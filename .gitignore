@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CMake generation
+build
+
+# VSCode
+.vscode/.cmaketools.json
